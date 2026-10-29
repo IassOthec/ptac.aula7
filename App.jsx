@@ -103,7 +103,7 @@ export default function App() {
         <div className="app-shell">
             <header className="app-header">
                 <div>
-                    <p className="eyebrow">Painel de administração</p>
+                    <p className="eyebrow">Painel de Administração</p>
                     <h1>Usuários</h1>
                     <p className="subtitle">
                         Cadastre, edite e acompanhe os usuários da aplicação.
